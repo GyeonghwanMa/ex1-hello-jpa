@@ -1,0 +1,15 @@
+# Project exclude paths
+/.gradle/
+.gradle
+.idea
+.log
+/build/
+/static/
+/logs/
+.gz
+/out/
+application-google.yml
+application-s3.yml
+application-mail.yml
+application-db.yml
+/bin/
